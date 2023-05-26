@@ -1,4 +1,4 @@
-# JoKo-OOP-Game
+# OOP-Game-Project (Nikko Ensomo, Joeval Ramirez, Jolo Tangpuz)
 Escape From Hell 
 
 
